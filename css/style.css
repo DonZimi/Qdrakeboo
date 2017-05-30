@@ -1,0 +1,11 @@
+.team-member img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+    width: 50%;
+}
+
+.img-circle {
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+}
